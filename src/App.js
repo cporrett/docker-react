@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p className="App-intro">
-          Changed to feature branch?
+          Changed to feature branch
         </p>
       </header>
     </div>
